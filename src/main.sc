@@ -13,7 +13,8 @@ theme: /
     state: Weather
         intent!: /weather
         a: Сегодня облачно, возможны осадки в виде фрикаделекк
-        
+        event: weather || toState = "/Weather"
+
     state: Currency
         intent!: /currency 
         a: На рынке все хорошо! Доллар и Евро ниже 100
