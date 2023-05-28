@@ -7,9 +7,9 @@ theme: /
         a: Начнём.
 
     state: Hello
-        intent!: /hello
+        intent!: /привет
         a: Привет!
-        
+
     state: Weather
         intent!: /weather
         a: Сегодня облачно, возможны осадки в виде фрикаделекк
